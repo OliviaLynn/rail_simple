@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier
+_commit: v0.3.2
+_src_path: gh:LSSTDESC/RAIL-project-template
+author_email: ''
+author_name: Olivia Lynn
+create_example_module: true
+package_name: rail_simple
+project_name: pz-rail-simple
